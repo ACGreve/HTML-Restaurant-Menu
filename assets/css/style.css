@@ -88,5 +88,5 @@ th {
 
 #nav_bar ul li a.active-page
 {
-  background-color:rgba(214, 194, 151, 0.63);
+  color:darkred;
 }
